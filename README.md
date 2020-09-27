@@ -1,1 +1,1 @@
-# House-Price---Kaggle
+# HousePrice-Kaggle
